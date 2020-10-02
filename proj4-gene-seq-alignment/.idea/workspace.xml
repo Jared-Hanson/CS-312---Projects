@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83c5a680-2a30-455e-9700-0fc8a25d62f9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Z2nsfnLGq7tmR4k4vkjO3ZmiKg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Proj4GUI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="proj4-gene-seq-alignment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Proj4GUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Proj4GUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83c5a680-2a30-455e-9700-0fc8a25d62f9" name="Default Changelist" comment="" />
+      <created>1584046264626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584046264626</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1054" height="328" key="GridCell.Tab.0.bottom" timestamp="1584374005560">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1419" height="189" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584373213961" />
+    <state width="1054" height="328" key="GridCell.Tab.0.bottom/0.23.1440.810@0.23.1440.810" timestamp="1584374005560" />
+    <state width="1054" height="280" key="GridCell.Tab.0.bottom/0.23.1920.990@0.23.1920.990" timestamp="1584130495016" />
+    <state width="1054" height="328" key="GridCell.Tab.0.center" timestamp="1584374005559">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1419" height="189" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584373213959" />
+    <state width="1054" height="328" key="GridCell.Tab.0.center/0.23.1440.810@0.23.1440.810" timestamp="1584374005559" />
+    <state width="1054" height="280" key="GridCell.Tab.0.center/0.23.1920.990@0.23.1920.990" timestamp="1584130495015" />
+    <state width="1054" height="328" key="GridCell.Tab.0.left" timestamp="1584374005558">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1419" height="189" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584373213958" />
+    <state width="1054" height="328" key="GridCell.Tab.0.left/0.23.1440.810@0.23.1440.810" timestamp="1584374005558" />
+    <state width="1054" height="280" key="GridCell.Tab.0.left/0.23.1920.990@0.23.1920.990" timestamp="1584130495014" />
+    <state width="1054" height="328" key="GridCell.Tab.0.right" timestamp="1584374005559">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1419" height="189" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584373213960" />
+    <state width="1054" height="328" key="GridCell.Tab.0.right/0.23.1440.810@0.23.1440.810" timestamp="1584374005559" />
+    <state width="1054" height="280" key="GridCell.Tab.0.right/0.23.1920.990@0.23.1920.990" timestamp="1584130495016" />
+    <state width="1054" height="328" key="GridCell.Tab.1.bottom" timestamp="1584374005560">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1054" height="328" key="GridCell.Tab.1.bottom/0.23.1440.810@0.23.1440.810" timestamp="1584374005560" />
+    <state width="1054" height="328" key="GridCell.Tab.1.bottom/0.23.1920.990@0.23.1920.990" timestamp="1584128023884" />
+    <state width="1054" height="328" key="GridCell.Tab.1.center" timestamp="1584374005560">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1054" height="328" key="GridCell.Tab.1.center/0.23.1440.810@0.23.1440.810" timestamp="1584374005560" />
+    <state width="1054" height="328" key="GridCell.Tab.1.center/0.23.1920.990@0.23.1920.990" timestamp="1584128023883" />
+    <state width="1054" height="328" key="GridCell.Tab.1.left" timestamp="1584374005560">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1054" height="328" key="GridCell.Tab.1.left/0.23.1440.810@0.23.1440.810" timestamp="1584374005560" />
+    <state width="1054" height="328" key="GridCell.Tab.1.left/0.23.1920.990@0.23.1920.990" timestamp="1584128023883" />
+    <state width="1054" height="328" key="GridCell.Tab.1.right" timestamp="1584374005560">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1054" height="328" key="GridCell.Tab.1.right/0.23.1440.810@0.23.1440.810" timestamp="1584374005560" />
+    <state width="1054" height="328" key="GridCell.Tab.1.right/0.23.1920.990@0.23.1920.990" timestamp="1584128023884" />
+    <state x="38" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1584046268104">
+      <screen x="0" y="23" width="1920" height="990" />
+    </state>
+    <state x="38" y="261" key="com.intellij.ide.util.TipDialog/0.23.1920.990@0.23.1920.990" timestamp="1584046268104" />
+  </component>
+</project>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="283d1e03-f1db-46c1-a736-7c7edd9a85c5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YSehPigVHOn3oAb0SpcMFBUpVL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.Proj3GUI">
+    <configuration name="NetworkRoutingSolver" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="proj3-network-routing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NetworkRoutingSolver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Proj3GUI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="proj3-network-routing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Proj3GUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Proj3GUI" />
+        <item itemvalue="Python.NetworkRoutingSolver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="283d1e03-f1db-46c1-a736-7c7edd9a85c5" name="Default Changelist" comment="" />
+      <created>1582940542154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582940542154</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="285" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582940603569">
+      <screen x="0" y="23" width="1920" height="990" />
+    </state>
+    <state x="285" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.990@0.23.1920.990" timestamp="1582940603569" />
+    <state width="669" height="161" key="GridCell.Tab.0.bottom" timestamp="1583216461719">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1013" height="161" key="GridCell.Tab.0.bottom/-1920.-157.1920.1057/0.23.1440.810@0.23.1440.810" timestamp="1583196150377" />
+    <state width="669" height="161" key="GridCell.Tab.0.bottom/0.23.1440.810@0.23.1440.810" timestamp="1583216461719" />
+    <state width="1183" height="161" key="GridCell.Tab.0.bottom/0.23.1920.990@0.23.1920.990" timestamp="1583189811872" />
+    <state width="669" height="161" key="GridCell.Tab.0.center" timestamp="1583216461719">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1013" height="161" key="GridCell.Tab.0.center/-1920.-157.1920.1057/0.23.1440.810@0.23.1440.810" timestamp="1583196150376" />
+    <state width="669" height="161" key="GridCell.Tab.0.center/0.23.1440.810@0.23.1440.810" timestamp="1583216461719" />
+    <state width="1183" height="161" key="GridCell.Tab.0.center/0.23.1920.990@0.23.1920.990" timestamp="1583189811871" />
+    <state width="669" height="161" key="GridCell.Tab.0.left" timestamp="1583216461718">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1013" height="161" key="GridCell.Tab.0.left/-1920.-157.1920.1057/0.23.1440.810@0.23.1440.810" timestamp="1583196150375" />
+    <state width="669" height="161" key="GridCell.Tab.0.left/0.23.1440.810@0.23.1440.810" timestamp="1583216461718" />
+    <state width="1183" height="161" key="GridCell.Tab.0.left/0.23.1920.990@0.23.1920.990" timestamp="1583189811870" />
+    <state width="669" height="161" key="GridCell.Tab.0.right" timestamp="1583216461719">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1013" height="161" key="GridCell.Tab.0.right/-1920.-157.1920.1057/0.23.1440.810@0.23.1440.810" timestamp="1583196150376" />
+    <state width="669" height="161" key="GridCell.Tab.0.right/0.23.1440.810@0.23.1440.810" timestamp="1583216461719" />
+    <state width="1183" height="161" key="GridCell.Tab.0.right/0.23.1920.990@0.23.1920.990" timestamp="1583189811871" />
+    <state width="862" height="256" key="GridCell.Tab.1.bottom" timestamp="1583206184713">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="862" height="256" key="GridCell.Tab.1.bottom/0.23.1440.810@0.23.1440.810" timestamp="1583206184713" />
+    <state width="1183" height="329" key="GridCell.Tab.1.bottom/0.23.1920.990@0.23.1920.990" timestamp="1583189690226" />
+    <state width="862" height="256" key="GridCell.Tab.1.center" timestamp="1583206184712">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="862" height="256" key="GridCell.Tab.1.center/0.23.1440.810@0.23.1440.810" timestamp="1583206184712" />
+    <state width="1183" height="329" key="GridCell.Tab.1.center/0.23.1920.990@0.23.1920.990" timestamp="1583189690225" />
+    <state width="862" height="256" key="GridCell.Tab.1.left" timestamp="1583206184711">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="862" height="256" key="GridCell.Tab.1.left/0.23.1440.810@0.23.1440.810" timestamp="1583206184711" />
+    <state width="1183" height="329" key="GridCell.Tab.1.left/0.23.1920.990@0.23.1920.990" timestamp="1583189690225" />
+    <state width="862" height="256" key="GridCell.Tab.1.right" timestamp="1583206184712">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="862" height="256" key="GridCell.Tab.1.right/0.23.1440.810@0.23.1440.810" timestamp="1583206184712" />
+    <state width="1183" height="329" key="GridCell.Tab.1.right/0.23.1920.990@0.23.1920.990" timestamp="1583189690226" />
+    <state x="330" y="191" key="SettingsEditor" timestamp="1582940591202">
+      <screen x="0" y="23" width="1920" height="990" />
+    </state>
+    <state x="330" y="191" key="SettingsEditor/0.23.1920.990@0.23.1920.990" timestamp="1582940591202" />
+    <state x="190" y="318" key="com.intellij.ide.util.TipDialog" timestamp="1583210974565">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state x="190" y="318" key="com.intellij.ide.util.TipDialog/0.23.1440.810@0.23.1440.810" timestamp="1583210974565" />
+    <state x="253" y="384" key="com.intellij.ide.util.TipDialog/0.23.1920.990@0.23.1920.990" timestamp="1582940544849" />
+    <state x="263" y="139" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583184796612">
+      <screen x="0" y="23" width="1920" height="990" />
+    </state>
+    <state x="263" y="139" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1920.990@0.23.1920.990" timestamp="1583184796612" />
+    <state x="349" y="263" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583026514332">
+      <screen x="0" y="23" width="1920" height="990" />
+    </state>
+    <state x="349" y="263" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1920.990@0.23.1920.990" timestamp="1583026514332" />
+    <state x="513" y="187" width="894" height="827" key="search.everywhere.popup" timestamp="1583027414142">
+      <screen x="0" y="23" width="1920" height="990" />
+    </state>
+    <state x="385" y="157" width="670" height="676" key="search.everywhere.popup/0.23.1440.810@0.23.1440.810" timestamp="1583020195499" />
+    <state x="513" y="187" width="894" height="827" key="search.everywhere.popup/0.23.1920.990@0.23.1920.990" timestamp="1583027414142" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
